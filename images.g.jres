@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAABIRVSEAAAAAIBVVQgAAAAAAIiFAAAAAAAAgIgAAAAAAACAiAAAAAAAAIiIAAAAAAAAiIgAAAAAAACIiAAAAAAAgGiIAAAAAACAZogAAAAAAIBmiAAAAAAAAGiIAAAAAAAAgIgAAAAAAACAiAAAAAAAAAAIAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "romskipSprite"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACICAAAAAAAAggIAAAAAAAAiAgAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myProjectile"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIiIiAgAAACBVVVUlAAAAIFVV9SUAAAAgVV//JQAAACBVVV8lAAAAIFVf/yUAAAAgVVX1JQAAACBVVVUlAAAAACIiIgIAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bogeySprite"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
